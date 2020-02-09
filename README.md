@@ -15,7 +15,7 @@ You will see the marker *shell>* which mean you are now running the program so y
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests.  
 
 ## Authors
-* DIALLO Ciré  
+* DIALLO Ciré - Initial contributor
 
 ##  Licence  
 this project is licenced under the MIT Licence  
